@@ -2,4 +2,6 @@
 
 !.gitignore
 !.zshrc
+!.iterm2_profile
+!.iterm2_profile/*
 
